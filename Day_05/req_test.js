@@ -1,6 +1,6 @@
 class Test1 {
   print() {
-    console.log("This is Test 1");
+    console.warn("This is Test 1");
   }
 }
 
