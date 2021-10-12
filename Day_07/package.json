@@ -1,0 +1,28 @@
+{
+  "name": "day_07",
+  "version": "1.0.0",
+  "description": "First time Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gautamshahkiit/Devsnest_Backend.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Gauti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gautamshahkiit/Devsnest_Backend/issues"
+  },
+  "homepage": "https://github.com/Gautamshahkiit/Devsnest_Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
